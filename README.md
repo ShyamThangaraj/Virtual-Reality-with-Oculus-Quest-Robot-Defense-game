@@ -3,6 +3,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
+- [Features](#features)
 - [How to Play](#how-to-play)
 - [Installation](#installation)
 - [Author](#Author)
